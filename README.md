@@ -101,7 +101,7 @@ The script will:
 - Feature engineering improves model accuracy.
 - LWR captures non-linear patterns but is computationally expensive.
 
-#For detailed performance evaluation, refer to project_writeup.pdf in the docs/ folder.
+For detailed performance evaluation, refer to project_writeup.pdf in the docs/ folder.
 ---
 ## License
 This project is licensed under the MIT License.
