@@ -1,6 +1,6 @@
 # Bike Sharing Demand Analysis Using Regression Models
 
-**Author**: Hon Wa Ng
+**Author**: Hon Wa Ng\
 **Date**: October 2024  
 
 ## Overview
